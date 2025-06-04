@@ -67,11 +67,12 @@ bool Hour_Setting_Flag=false;
 bool Minute_Setting_Flag=false;
 bool Second_Setting_Flag=false;
 
-char* week=NULL;
-char* month=NULL;
-char* date=NULL;
-char* year=NULL;
-char* whole=NULL;
+
+
+char week1[20]={0};
+char date1[20]={0};
+char month1[20]={0};
+char year1[20]={0};
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/

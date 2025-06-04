@@ -414,24 +414,22 @@ void UserItem_Init_7(void)
 
 void UserItem_Exit_7(void)
 {
-
+	oled_set_font(u8g2_font_wqy12_t_chinese1);
 }
 
 void UserItem_Loop_7(void)
 {
-	static char week1[20];
-	static char date1[20];
-	static char month1[20];
-	static char year1[5]="2025";
-	oled_set_font(u8g2_font_wqy12_t_chinese1);
-	if((week==NULL)||(month==NULL)||(date==NULL)) oled_draw_str(5,10,"Plz Synchronize First");
-	sprintf (week1,"Today is %s",week);
-	sprintf (date1,"%s",date);
-	sprintf (month1,"%s ",month);
-	oled_draw_str(5,20,week1);
-	//u8g2_DrawUTF8(&u8g2, 5, 25, week);
-	oled_draw_str(45,20,month1);
-	oled_draw_str(85,20,date1);
-	oled_draw_str(45,40,year1);
+
+	oled_set_font( u8g2_font_crox5t_tf);
+
+	oled_draw_str(2,35,week1);
+	oled_draw_str(52,35,month1);
+	oled_draw_str(95,35,date1);
+	oled_set_font(u8g2_font_crox2t_tn);
+	oled_draw_str(53,58,year1);
+//	oled_draw_str(5,35,"Sat");
+//	oled_draw_str(50,35,"Jun");
+//	oled_draw_str(95,35,"4");
+	//oled_draw_str(45,40,year1);
 	
 }

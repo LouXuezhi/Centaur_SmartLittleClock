@@ -47,11 +47,12 @@ extern uint16_t Uart1_Rx_Cnt;
 extern uint8_t aRxBuffer;
 extern char my_order[15];
 extern char receive_flag;
-extern char* week;
-extern char* month;
-extern char* date;
-extern char* year; 
-extern char* whole;
+
+extern char week1[20];
+extern char date1[20];
+extern char month1[20];
+extern char year1[20];
+
 /* USER CODE END ET */
 
 /* Exported constants --------------------------------------------------------*/

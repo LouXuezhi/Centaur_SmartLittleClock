@@ -59,14 +59,19 @@ uint8_t esp8266_ask_time(void)
 					char* timeStr = RxBuffer + 13;
 
 				// 使用 strtok 提取时间部分
-					week=strtok(timeStr, " ");
-					month=strtok(NULL, " ");
-					date=strtok(NULL, " ");
+					char * week=strtok(timeStr, " ");
+					char * month=strtok(NULL, " ");
+					char * date=strtok(NULL, " ");
+					sprintf (week1,"%s",week);
+					sprintf (date1,"%s",date);
+					sprintf (month1,"%s ",month);
 //					char* token = strtok(timeStr, " "); // 跳过 "Sat"
 //					token = strtok(NULL, " ");          // 跳过 "May"
 //					token = strtok(NULL, " ");          // 跳过 "17"
 					char* timePart = strtok(NULL, " "); // 提取 "09:33:37"
-					//year=strtok(NULL, "\r");
+					
+					char* year=strtok(NULL, "\r");
+					sprintf (year1,"%s ",year);
 					if (timePart != NULL)
 					{
 						// 分割时间部分
