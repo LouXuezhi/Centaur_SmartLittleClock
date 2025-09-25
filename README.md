@@ -24,3 +24,4 @@
 
 > This work uses the C-language-based UI framework developed by [@AstraThreshold](https://github.com/AstraThreshold). I would like to express our special thanks here!
 
+<img src="./Logo.png" width = "300" height = "200" alt="Logo" />
