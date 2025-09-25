@@ -8,7 +8,7 @@
 
 > This is the personal course project repository for Lou Xuezhi from the Glasgow College, University of Electronic Science and Technology of China (UESTC) for the Microelectronic Systems course. This repository serves the course project assignment of Microelectronic Systems at UoG and UESTC. The code name for this repository is Centaur.
 
-本作品是一个LED智能小钟，完成了显示时间，调整时间，互联网对时，倒计时，日历等功能. 
+本作品是一个LED智能小钟 :alarm_clock: ，完成了显示时间，调整时间，互联网对时，倒计时，日历等功能. 
 
 > This work is an intelligent LED clock that features functions such as time display, time adjustment, internet time synchronization, countdown, and calendar.
 
@@ -20,7 +20,7 @@
 
 > For more project details, please refer to the project introduction video.
 
-本作品使用了无理造物老师 [@AstraThreshold](https://github.com/AstraThreshold) [Astra 基于C的UI框架](https://github.com/AstraThreshold/oled-ui-astra-lite)  特此感谢！:fire: :fire: :fire:
+本作品使用了无理造物老师 [@AstraThreshold](https://github.com/AstraThreshold) [Astra 基于C的UI框架](https://github.com/AstraThreshold/oled-ui-astra-lite)  特此感谢！:tada: :tada: :tada:
 
 > This work uses the C-language-based UI framework developed by [@AstraThreshold](https://github.com/AstraThreshold). I would like to express our special thanks here! 
 
