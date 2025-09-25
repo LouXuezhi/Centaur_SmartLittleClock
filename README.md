@@ -20,7 +20,7 @@
 
 > For more project details, please refer to the project introduction video.
 
-本作品使用了无理造物老师 @AstraThreshold [Astra](https://github.com/AstraThreshold/oled-ui-astra-lite) 基于C的UI框架 特此感谢！
+本作品使用了无理造物老师 [@AstraThreshold](https://github.com/AstraThreshold) [Astra 基于C的UI框架](https://github.com/AstraThreshold/oled-ui-astra-lite)  特此感谢！
 
-> This work uses the C-language-based UI framework developed by @AstraThreshold. I would like to express our special thanks here!
+> This work uses the C-language-based UI framework developed by [@AstraThreshold](https://github.com/AstraThreshold). I would like to express our special thanks here!
 
