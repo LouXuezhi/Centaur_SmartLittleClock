@@ -16,7 +16,7 @@
 
 > This work is based on the STM HAL library and uses CubeMx for initialization. The chips used are STM32 L432KC and ESP8266.
 
-更多项目细节可以参看 项目介绍视频:point_right: [Hello！我做了一个智能小钟 | 格院大一 | MS Project |](https://www.bilibili.com/video/BV1K47jzDEGw/?spm_id_from=333.1387.favlist.content.click&vd_source=28d8533b0347bef6e0d605b88e99aab0)
+更多项目细节可以参看 项目介绍视频 :point_right: [Hello！我做了一个智能小钟 | 格院大一 | MS Project |](https://www.bilibili.com/video/BV1K47jzDEGw/?spm_id_from=333.1387.favlist.content.click&vd_source=28d8533b0347bef6e0d605b88e99aab0)
 
 > For more project details, please refer to the project introduction video.
 
