@@ -1,10 +1,10 @@
-# Little Smart Clock 
+# Centaur Little Smart Clock 
 
 这是来自 UoG, UESTC 的 **Lou Xuezhi** 的个人 **Microelectronic Systems** 课程项目仓库
 
 这个仓库服务于 Lou 的 UoG, UESTC 的 **Microelectronic Systems** 的课程项目作业 :rocket: 
 
-本仓库的代号为 **Centaur** :racehorse:
+本仓库的代号为 **Centaur** 半人马 :racehorse:
 
 > This is the personal course project repository for Lou Xuezhi from the Glasgow College, University of Electronic Science and Technology of China (UESTC) for the Microelectronic Systems course. This repository serves the course project assignment of Microelectronic Systems at UoG and UESTC. The code name for this repository is Centaur.
 
